@@ -1,4 +1,5 @@
 import React from 'react';
+import Header from './component/Pages/Home';
 
-const App = () => <h1>Hello Friend</h1>;
+const App = () => <Header />;
 export default App;
