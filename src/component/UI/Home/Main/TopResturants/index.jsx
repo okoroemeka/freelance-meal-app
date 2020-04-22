@@ -9,8 +9,7 @@ import colors from '../../../../../utils/colors';
 
 const StyledResturantSection = styled.section`
   width: 100%;
-  /* height: ${convertFromPixelsToRem(250)}; */
-  height: auto;
+  height: ${convertFromPixelsToRem(250)};
   position: relative;
   display: flex;
   justify-content:center;
